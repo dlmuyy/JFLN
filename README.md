@@ -1,11 +1,9 @@
-# JMLN: Joint Metric Learning Network for 2D Sketch-based 3D Shape Retrieval
+# JFLN: Joint Feature Learning Network for 2D Sketch-based 3D Shape Retrieval
 Sketch-based 3D Shape Retrieval
 
 ## Introduction
 
-The code is used in the paper of JMLN, which attempts to further  improve the cross-domain retrieval task. The framework is shown as followings:
-
-![image-20201019172033483](images/jmln.png)
+The code is used in the paper of JMLN, which attempts to further  improve the cross-domain retrieval task.
 
 ## Environment
 
