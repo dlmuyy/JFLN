@@ -1,9 +1,8 @@
-# JFLN: Joint Feature Learning Network for 2D Sketch-based 3D Shape Retrieval
-Sketch-based 3D Shape Retrieval
+# J-F-L-N
 
 ## Introduction
 
-The code is used in the paper of JMLN, which attempts to further  improve the cross-domain retrieval task.
+The code of J-F-L-N
 
 ## Environment
 
